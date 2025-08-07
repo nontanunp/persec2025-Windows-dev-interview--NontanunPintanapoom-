@@ -373,7 +373,7 @@ namespace Pre_InterviewQuestion
         #region QuestionNo2
         private static void QuestionNo2()
         {
-
+            //
             // test
 
             // update github
