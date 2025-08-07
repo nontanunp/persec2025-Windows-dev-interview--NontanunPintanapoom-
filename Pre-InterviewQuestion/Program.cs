@@ -1,12 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Data;
-using System.Diagnostics.Eventing.Reader;
 using System.Linq;
-using System.Text;
 using System.Text.RegularExpressions;
-using System.Threading.Tasks;
-using static System.Net.Mime.MediaTypeNames;
 
 namespace Pre_InterviewQuestion
 {
@@ -378,20 +373,10 @@ namespace Pre_InterviewQuestion
         #region QuestionNo2
         private static void QuestionNo2()
         {
-            //Console.WriteLine();
-            //Console.Write("QuestionNo2 ==> Enter Key Ex TH19, SG20, TH2: ");
-            //string key = Console.ReadLine();
 
-            //string[] input1 = { "TH19", "SG20", "TH2" };
-            ////string[] input2 = { "TH10", "TH3Netflix", "TH1", "TH7" };
+            // test
 
-            //var result1 = SortCustom(input1);
-            ////var result2 = SortCustom(input2);
-
-            //Console.WriteLine(string.Join(", ", result1)); // SG20, TH2, TH19
-            ////Console.WriteLine(string.Join(", ", result2)); // TH1, TH3Netflix, TH7, TH10
-            ///
-
+            // update github
 
             Console.WriteLine();
             Console.Write("QuestionNo2 ==> Enter Key Ex : (TH19, SG20, TH2  or TH10, TH3Netflix, TH1, TH7 or pass key EX Enter Y) : ");
